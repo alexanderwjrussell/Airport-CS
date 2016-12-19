@@ -16,6 +16,12 @@ namespace Airport_CS
 		}
 
 		[Test]
+		public void Should_Initialise_WithFlyingPropertyFalse()
+		{
+			Assert.That(plane.Flying, Is.False);
+		}
+
+		[Test]
 		public void Should_AllowAPlaneToLand()
 		{
 			plane.Land(airport);
