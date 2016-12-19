@@ -2,7 +2,7 @@
 
 namespace Airport_CS
 {
-	class Airport
+	public class Airport
 	{
 		public List<Plane> Planes { get; internal set; }
 

@@ -34,6 +34,7 @@
     <Compile Include="AirportTest.cs" />
     <Compile Include="Airport.cs" />
     <Compile Include="Plane.cs" />
+    <Compile Include="PlaneTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
