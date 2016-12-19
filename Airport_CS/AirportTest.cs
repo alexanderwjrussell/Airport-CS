@@ -14,9 +14,9 @@ namespace Airport_CS
 		}
 
 		[Test]
-		public void Should_ReturnEmptyArray_WhenInitialised()
+		public void Should_ReturnEmptyList_WhenInitialised()
 		{
-			Assert.That(airport.Planes(), Is.EqualTo([]);
+			Assert.That(airport.Planes, Is.Empty);
 		}
 	}
 }

@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{FEAB5690-C4D4-4877-92DC-D2117A6EEF98}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Airport_CS/AirportTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Airport_CS/Airport.cs">
     <Files>
-      <File FileName="Airport_CS/AirportTest.cs" Line="19" Column="24" />
-      <File FileName="Airport_CS/Airport.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Airport_CS/AirportTest.cs" Line="19" Column="26" />
+      <File FileName="Airport_CS/Airport.cs" Line="7" Column="19" NotebookId="1" />
+      <File FileName="Airport_CS/Plane.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
